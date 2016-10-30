@@ -1,0 +1,8 @@
+dist
+www
+src/css/*
+src/img/*
+src/js/*
+src/tmpl/*
+src/index.html
+node_modules
